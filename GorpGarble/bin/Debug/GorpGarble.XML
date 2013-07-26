@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>GorpGarble</name></assembly>
+<members>
+<member name="">
+
+</member>
+<member name="M:ClosestPair.closestInternal(Microsoft.FSharp.Collections.FSharpList{Geometry.Vector})">
+<summary>
+ Gets the closest pair using a divide-and-conquer O(n log n) approach.
+</summary>
+</member>
+<member name="M:ClosestPair.closestBf(Microsoft.FSharp.Collections.FSharpList{Geometry.Vector})">
+<summary>
+ Gets the closest pair using a brute-force O(n^2) approach.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="T:ClosestPair">
+<summary>
+ Implementation of a solution to the closest-pair problem.
+</summary>
+</member>
+<member name="T:Geometry.Point">
+<summary>
+ Represents a point in 2D space.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:Geometry.Vector.op_Subtraction(Geometry.Vector,Geometry.Vector)">
+<summary>
+ Returns the result of subtracting one vector by another.
+</summary>
+</member>
+<member name="M:Geometry.Vector.op_Multiply(Geometry.Vector,Geometry.Vector)">
+<summary>
+ Returns the dot product of two vectors.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="M:Geometry.Vector.op_Multiply(Geometry.Vector,System.Double)">
+<summary>
+ Returns the result of multiplying a vector by a scalar.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="M:Geometry.Vector.op_Addition(Geometry.Vector,Geometry.Vector)">
+<summary>
+ Returns the result of adding two vectors.
+</summary>
+</member>
+<member name="P:Geometry.Vector.Y">
+<summary>
+ The Y component of this vector.
+</summary>
+</member>
+<member name="P:Geometry.Vector.X">
+<summary>
+ The X component of this vector.
+</summary>
+</member>
+<member name="P:Geometry.Vector.SqLength">
+<summary>
+ The squared magnitude of this vector.
+</summary>
+</member>
+<member name="P:Geometry.Vector.Length">
+<summary>
+ The magnitude of this vector.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="M:Geometry.Vector.Norm(Geometry.Vector)">
+<summary>
+ Returns the two vector normals to a given vector.
+</summary>
+</member>
+<member name="M:Geometry.Vector.Dist(Geometry.Vector,Geometry.Vector)">
+<summary>
+ Returns the distance between two vectors.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="T:Geometry.Vector">
+<summary>
+ Represents a vector in 2D space.
+</summary>
+</member>
+<member name="T:Geometry">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:Program">
+
+</member>
+<member name="M:Util.Random.NextDouble(System.Int32)">
+<summary>
+Returns a new float in the range [0 .. n).
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:Util.List.splitAt``1(System.Int32,Microsoft.FSharp.Collections.FSharpList{``0})">
+<summary>
+ Takes a given collection and returns two collections that are partitioned at the given index.
+</summary>
+</member>
+<member name="M:Util.List.drop``1(System.Int32,Microsoft.FSharp.Collections.FSharpList{``0})">
+<summary>
+ Drops the first n elements in a list and returns what remains.
+</summary>
+</member>
+<member name="M:Util.List.take``1(System.Int32,Microsoft.FSharp.Collections.FSharpList{``0})">
+<summary>
+ Returns the first n elements in a list.
+</summary>
+</member>
+<member name="T:Util.List">
+<summary>
+ Contains useful extension functions for the F# List module.
+</summary>
+</member>
+<member name="T:Util">
+
+</member>
+</members>
+</doc>

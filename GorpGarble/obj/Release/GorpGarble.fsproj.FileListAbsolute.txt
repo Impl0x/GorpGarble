@@ -1,0 +1,9 @@
+C:\Users\student\documents\visual studio 2012\Projects\GorpGarble\GorpGarble\bin\Release\GorpGarble.exe.config
+C:\Users\student\documents\visual studio 2012\Projects\GorpGarble\GorpGarble\bin\Release\GorpGarble.XML
+C:\Users\student\documents\visual studio 2012\Projects\GorpGarble\GorpGarble\bin\Release\GorpGarble.exe
+C:\Users\student\documents\visual studio 2012\Projects\GorpGarble\GorpGarble\bin\Release\GorpGarble.pdb
+C:\Users\student\documents\visual studio 2012\Projects\GorpGarble\GorpGarble\bin\Release\FSharp.Core.dll
+C:\Users\student\documents\visual studio 2012\Projects\GorpGarble\GorpGarble\bin\Release\FSharp.Core.xml
+C:\Users\student\documents\visual studio 2012\Projects\GorpGarble\GorpGarble\obj\Release\GorpGarble.fsprojResolveAssemblyReference.cache
+C:\Users\student\documents\visual studio 2012\Projects\GorpGarble\GorpGarble\obj\Release\GorpGarble.exe
+C:\Users\student\documents\visual studio 2012\Projects\GorpGarble\GorpGarble\obj\Release\GorpGarble.pdb
