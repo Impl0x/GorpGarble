@@ -7,3 +7,12 @@ C:\Users\student\documents\visual studio 2012\Projects\GorpGarble\GorpGarble\bin
 C:\Users\student\documents\visual studio 2012\Projects\GorpGarble\GorpGarble\obj\Release\GorpGarble.fsprojResolveAssemblyReference.cache
 C:\Users\student\documents\visual studio 2012\Projects\GorpGarble\GorpGarble\obj\Release\GorpGarble.exe
 C:\Users\student\documents\visual studio 2012\Projects\GorpGarble\GorpGarble\obj\Release\GorpGarble.pdb
+C:\Users\Alex\Documents\GitHub\GorpGarble\GorpGarble\bin\Release\GorpGarble.exe.config
+C:\Users\Alex\Documents\GitHub\GorpGarble\GorpGarble\bin\Release\GorpGarble.XML
+C:\Users\Alex\Documents\GitHub\GorpGarble\GorpGarble\bin\Release\GorpGarble.exe
+C:\Users\Alex\Documents\GitHub\GorpGarble\GorpGarble\bin\Release\GorpGarble.pdb
+C:\Users\Alex\Documents\GitHub\GorpGarble\GorpGarble\bin\Release\FSharp.Core.dll
+C:\Users\Alex\Documents\GitHub\GorpGarble\GorpGarble\bin\Release\FSharp.Core.xml
+C:\Users\Alex\Documents\GitHub\GorpGarble\GorpGarble\obj\Release\GorpGarble.fsprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\GorpGarble\GorpGarble\obj\Release\GorpGarble.exe
+C:\Users\Alex\Documents\GitHub\GorpGarble\GorpGarble\obj\Release\GorpGarble.pdb

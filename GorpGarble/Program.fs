@@ -46,9 +46,9 @@ type Window () as this =
             cT * cT * (cT * c + aT * (c + cA / 3.0) + bT * (c + cB / 3.0))
 
         let v x y = Vector (x, y)
-        let deform = triDeform (v 0.0 0.0) (v (clock + 1.5) 0.3) (v 0.3 -clock) (v 1.0 clock) (v -clock2 1.0) (v -1.0 -clock) (v 0.0 1.0) (v -0.3 -1.0) (v 1.0 -1.0)
+        let deform = triDeform (v 0.0 0.0) (v clock 0.3) (v 0.3 (0.5 * -clock)) (v (0.5 * clock) (0.01 * clock)) (v clock 0.1) (v 0.5 -1.0) (v 0.0 1.0) (v 0.3 1.0) (v 1.0 -1.0)
 
-        let resolution = 300
+        let resolution = 2000
         let delta = 1.0 / float resolution
         for i = 0 to resolution - 1 do
             for j = 0 to resolution - 1 do
